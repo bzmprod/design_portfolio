@@ -6,7 +6,7 @@ html {
 }
 
 .bg-1 {
-  background-image: url(/resources/images/1.jpg);
+  background-image: url(resources/images/1.jpg);
 }
 
 .content {
